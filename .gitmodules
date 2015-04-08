@@ -7,3 +7,6 @@
 [submodule "neon-drivers"]
 	path = neon-drivers
 	url = http://github.com/nradulovic/neon-drivers.git
+[submodule "neon-lib"]
+	path = neon-lib
+	url = https://github.com/nradulovic/neon-lib.git
