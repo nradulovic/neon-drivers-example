@@ -1,10 +1,12 @@
 /*
- * This file is part of Neon examples.
+ * This file is part of Neon Drivers Example.
+ *
+ * Basic GPIO Driver example.
  */
-
 /*=========================================================  INCLUDE FILES  ==*/
 
 #include "neon_eds.h"
+#include "bsp.h"
 
 /*=========================================================  LOCAL MACRO's  ==*/
 /*======================================================  LOCAL DATA TYPES  ==*/
@@ -17,6 +19,8 @@
 
 int main(void)
 {
+    bsp_init();
+
 
     return (0);
 }

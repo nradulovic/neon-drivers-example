@@ -1,5 +1,5 @@
 /*
- * This file is part of Neon-test.
+ * This file is part of Neon Drivers Example.
  *
  * Board support package source for: stm32f4xx-hal
  */
