@@ -20,8 +20,8 @@
  * e-mail  :    
  */
 
-#ifndef NEON_EDS_APP_CONFIG_H_
-#define NEON_EDS_APP_CONFIG_H_
+#ifndef NEON_DRIVERS_APP_CONFIG_H_
+#define NEON_DRIVERS_APP_CONFIG_H_
 
 /*=========================================================  INCLUDE FILES  ==*/
 /*===============================================================  MACRO's  ==*/
@@ -46,6 +46,6 @@ extern "C" {
 
 /*================================*//** @cond *//*==  CONFIGURATION ERRORS  ==*/
 /** @endcond *//** @} *//******************************************************
- * END of neon_eds_app_config.h
+ * END of neon_drivers_app_config.h
  ******************************************************************************/
-#endif /* NEON_EDS_APP_CONFIG_H_ */
+#endif /* NEON_DRIVERS_APP_CONFIG_H_ */
